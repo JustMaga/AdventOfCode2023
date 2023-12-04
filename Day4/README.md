@@ -29,6 +29,7 @@ In the above example, card 1 has five winning numbers (```41```, ```48```, ```83
 - Card 4 has one winning number (84), so it is worth **```1```** point.
 - Card 5 has no winning numbers, so it is worth no points.
 - Card 6 has no winning numbers, so it is worth no points.
+
 So, in this example, the Elf's pile of scratchcards is worth **```13```** points.
 
 Take a seat in the large pile of colorful cards. **How many points are they worth in total?**
